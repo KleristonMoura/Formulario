@@ -1,0 +1,113 @@
+.bg {
+    /* background-image: url("papel1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;*/
+    background: rgba(135, 206, 235);
+}
+
+#titulo {
+    font-family: sans-serif;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 150px;
+    font-family: sans-serif;
+    color: black;
+}
+
+#subtitulo {
+    font-family: sans-serif;
+    color: black;
+    margin-right: 150px;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+
+form {
+    margin-bottom: 50px;
+    max-width: 590px;
+    margin: 0 auto;
+    background-color: rgba(95, 158, 160, 0.2);
+    border-radius: 20px;
+}
+
+#bloco {
+    font-family: sans-serif;
+    margin-right: 320px;
+    margin-left: 30%;
+    color: white;
+}
+
+fieldset {
+    border: 0;
+}
+
+.grupo {
+    margin-bottom: 2px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.dados input {
+    margin-bottom: 1px;
+    margin-left: 5px;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    border-radius: 5px;
+}
+
+.campo {
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.campo .senioridade {
+    color: black;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+#senioridade {
+    border-radius: 5px;
+}
+
+.ling {
+    color: black;
+    margin-left: 120px;
+}
+
+#check {
+    margin-bottom: -10px;
+    color: black;
+    margin-left: 15px;
+}
+
+.texto {
+    margin-top: 8px;
+    margin-left: -23px;
+}
+
+textarea {
+    font-family: sans-serif;
+    color: black;
+    border-radius: 10px;
+}
+
+.botao {
+    margin-bottom: 10px;
+    margin-left: 240px;
+    box-shadow: 2px 2px 2px rgb(241, 240, 240);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.botao:hover {
+    background: rgba(135, 206, 235);
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
